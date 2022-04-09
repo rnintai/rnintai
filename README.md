@@ -3,6 +3,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rnintai alt=rnintai /> </p>
 
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Python,Java)](https://github.com/rnintai)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,TypeScript,React)](https://github.com/rnintai)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rnintai&show_icons=true&include_all_commits=true)](https://github.com/rnintai/github-readme-stats)
