@@ -1,7 +1,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-ho46825@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ho46825@gmail.com)](mailto:ho46825@gmail.com) [![Github Badge](https://img.shields.io/badge/-rnintai-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rnintai/)](https://www.github.com/rnintai/) 
-
-<p align=left> <img src=https://komarev.com/ghpvc/?username=rnintai alt=rnintai /> </p>
-
+<hr>
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Python,Java)](https://github.com/rnintai)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,TypeScript,React)](https://github.com/rnintai)
 
