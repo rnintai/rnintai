@@ -2,7 +2,7 @@
 <hr>  
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,react,nodejs)](https://github.com/rnintai)
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages\ \&\ Framework&badges=JavaScript,React,node.js,Express.js,TypeScript,jQuery)](https://github.com/rnintai)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20&amp;%20Framework&badges=JavaScript,React,node.js,Express.js,TypeScript,jQuery)](https://github.com/rnintai)
 
 
 
